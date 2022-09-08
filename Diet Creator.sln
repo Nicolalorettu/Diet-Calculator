@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diet Creator", "Diet Creator\Diet Creator.csproj", "{B4239C40-7280-4257-8C2E-9D130B4F6BE4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{E01AF722-FCDC-4841-9AC1-7CC96DAD27B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4239C40-7280-4257-8C2E-9D130B4F6BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4239C40-7280-4257-8C2E-9D130B4F6BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4239C40-7280-4257-8C2E-9D130B4F6BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4239C40-7280-4257-8C2E-9D130B4F6BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01AF722-FCDC-4841-9AC1-7CC96DAD27B7}.Debug|Any CPU.ActiveCfg = Debug
+		{E01AF722-FCDC-4841-9AC1-7CC96DAD27B7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4527159-4889-4ACA-993F-7B3D445A5F1A}
+	EndGlobalSection
+EndGlobal
